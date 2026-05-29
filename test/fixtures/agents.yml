@@ -1,11 +1,11 @@
 # Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
-one:
-  codename: one
-  level: 1
-  active: false
+#one:
+  #codename: one
+  #level: 1
+  #active: false
 
-two:
-  codename: two
-  level: 1
-  active: false
+#two:
+  #codename: two
+  #level: 1
+  #active: false
