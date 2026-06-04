@@ -3,7 +3,6 @@ class Quest2StudentService
     # @return [String]
     def all_agents
       Agent.order(:codename).pluck(:codename).join("\n")
-      # quest2_agents_relation.order(:codename).pluck(:codename).join("\n")
     end
 
     # @return [String]
